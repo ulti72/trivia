@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ulti72/.android/build-cache/f24a69c609fcc061e2a21199ab12241a3f1812e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/ulti72/Downloads/triviaHints/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd9143c80966a93937a7915487e1fa07b89a336e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ulti72/.android/build-cache/cd591f325f1963578883194c577af018533c2c06/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/home/ulti72/Downloads/triviaHints/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e480d14af36cdeb9ab76e21ceaca617e1d5af09e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ulti72/.android/build-cache/c684721c60e851de79bd041751b7bfc4135561fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/home/ulti72/Downloads/triviaHints/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b80f01c48c3aa0d405d33bb35225c24fc5113b0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ulti72/Downloads/triviaHints/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c2244a6366e9c505cccc04be5e8886ed74d38f9">
+        <dex dex="/home/ulti72/Downloads/triviaHints/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a6bb86cee92364b8ea6b97fb70810a214e2083c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ulti72/Downloads/triviaHints/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/ulti72/Downloads/triviaHints/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_235ebee07e6d24a7567d2cb22fefb9b867bc43eb/classes.dex" />
+    </item>
+
+</items>
